@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](/.github/banner.png)
+![](/.github/banner.jpg)
 <br>
 <br>
 
