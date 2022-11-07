@@ -6,7 +6,7 @@ I'm a 0000010110 year-old Application Security Engineer,  an enthusiastic pentes
 
 
 ## Experiments🧪
-I also enjoy developing some security related tools, scripts in Bash And Pyhton . 
+I also enjoy writing security tools, scripts in Bash And Python . 
 
 ## What I am learning📖
 I'm currently learning and Practicing Web 1 2 3 Security , Owsap Top 10 , Smart contract .
