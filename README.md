@@ -4,6 +4,8 @@
 
 [comment]: <![](/.github/2banner.jpg)>
 
+  [![HitCount](https://hits.dwyl.com/raoshaab/raoshaab/raoshaab.svg?style=flat-square)](http://hits.dwyl.com/raoshaab/raoshaab/raoshaab)
+
 
 I'm a Application Security Engineer,  an enthusiastic pentester  who loves to explore, automate, break, learn, and hack all things!I like to build and learn in the open, sharing new projects, insights and thoughts, on my [blog](https://raoshaab.medium.com/).
 
